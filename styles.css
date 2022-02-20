@@ -200,6 +200,7 @@ main {
   place-items: center;
 }
 .container {
+  display: grid;
   text-align: center;
 }
 .container h2 {
